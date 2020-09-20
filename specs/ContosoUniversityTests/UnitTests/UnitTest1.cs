@@ -17,14 +17,14 @@ namespace ContosoUniversity.Tests
             Assert.Pass();
         }
 
-        //[Test]
+        [Test]
         public void Test_should_fail_with_assert_fail()
         {
 
             Assert.Fail();
         }
 
-        //[Test]
+        [Test]
         public void Test_2()
         {
 
