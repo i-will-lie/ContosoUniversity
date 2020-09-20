@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Vw6m9TDG7tDyc6zNiRtEEliPvD4klCvn2AXp8WOJfk3bY1SDPHdjAroW74rqePWcrawoKh/lRcR5PE0N5eGjA==",
+  "dgSpecHash": "Z7bzN+3WyCc9ZIaPgs9g4TpH4BXmiRzunjUzl8ABNyWvGXRxMFUA7xZKAIk6655vbkYRtRzlSec8EhAz9J0u/A==",
   "success": true,
-  "projectFilePath": "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\ContosoUniveristy.Tests.csproj",
+  "projectFilePath": "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\ContosoUniveristy.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Willie Joe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Willie Joe\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

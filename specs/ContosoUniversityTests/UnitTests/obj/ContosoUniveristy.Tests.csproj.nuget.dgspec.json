@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\ContosoUniveristy.Tests.csproj": {}
+    "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\ContosoUniveristy.Tests.csproj": {}
   },
   "projects": {
-    "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\ContosoUniveristy.Tests.csproj": {
+    "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\ContosoUniveristy.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\ContosoUniveristy.Tests.csproj",
+        "projectUniqueName": "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\ContosoUniveristy.Tests.csproj",
         "projectName": "ContosoUniveristy.Tests",
-        "projectPath": "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\ContosoUniveristy.Tests.csproj",
+        "projectPath": "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\ContosoUniveristy.Tests.csproj",
         "packagesPath": "C:\\Users\\Willie Joe\\.nuget\\packages\\",
-        "outputPath": "F:\\vs_repos\\cu\\specs\\UnitTests\\ContosoUniversityTests\\obj\\",
+        "outputPath": "F:\\vs_repos\\cu\\specs\\ContosoUniversityTests\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

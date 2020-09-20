@@ -135,7 +135,6 @@ F:\vs_repos\cu\src\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\win-x86\na
 F:\vs_repos\cu\src\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\vs_repos\cu\src\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 F:\vs_repos\cu\src\ContosoUniversity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csprojAssemblyReference.cache
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.AssemblyInfoInputs.cache
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.AssemblyInfo.cs
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
@@ -182,3 +181,4 @@ F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\staticwebassets\Con
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.dll
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.pdb
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.genruntimeconfig.cache
+F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csprojAssemblyReference.cache
