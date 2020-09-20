@@ -23,5 +23,12 @@ namespace ContosoUniversity.Tests
 
             Assert.Fail();
         }
+
+        //[Test]
+        public void Test_2()
+        {
+
+            Assert.Pass();
+        }
     }
 }
