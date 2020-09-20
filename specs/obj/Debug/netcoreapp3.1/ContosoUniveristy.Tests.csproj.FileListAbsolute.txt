@@ -16,6 +16,8 @@ F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\ContosoUniveristy.Tests.runtimeconf
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\ContosoUniveristy.Tests.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\ContosoUniveristy.Tests.pdb
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -31,7 +33,18 @@ F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstr
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
 F:\vs_repos\cu\specs\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll

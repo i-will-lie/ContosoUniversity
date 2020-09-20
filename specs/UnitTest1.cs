@@ -11,14 +11,14 @@ namespace ContosoUniversity.Tests
         }
 
         [Test]
-        public void Test1()
+        public void Test_should_pass_with_assert_pass()
         {
             
             Assert.Pass();
         }
 
         [Test]
-        public void Test2()
+        public void Test_should_fail_with_assert_fail()
         {
 
             Assert.Fail();
