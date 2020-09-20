@@ -16,5 +16,12 @@ namespace ContosoUniversity.Tests
             
             Assert.Pass();
         }
+
+        [Test]
+        public void Test2()
+        {
+
+            Assert.Fail();
+        }
     }
 }
