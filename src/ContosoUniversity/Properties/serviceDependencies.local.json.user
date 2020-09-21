@@ -1,9 +1,26 @@
 {
   "dependencies": {
+    "mssql2": {
+      "restored": true,
+      "restoreTime": "2020-09-21T01:00:29.5567506Z"
+    },
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-09-21T01:00:01.7082195Z"
+    },
     "mssql1": {
       "restored": true,
       "restoreTime": "2020-09-19T01:10:42.3205016Z"
     }
   },
-  "parameters": {}
+  "parameters": {
+    "mssql2.subscriptionId": {
+      "Type": "subscription",
+      "Value": "5bf42afd-ea88-498d-bb84-fe55fa504ce7"
+    },
+    "mssql2.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "contoso-university-test-rg"
+    }
+  }
 }

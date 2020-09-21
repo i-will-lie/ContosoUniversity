@@ -182,3 +182,4 @@ F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.d
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.pdb
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.genruntimeconfig.cache
 F:\vs_repos\cu\src\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csprojAssemblyReference.cache
+F:\vs_repos\cu\src\ContosoUniversity\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql2.arm.json
