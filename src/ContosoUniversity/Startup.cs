@@ -52,7 +52,7 @@ namespace ContosoUniversity
             app.UseRouting();
 
             app.UseAuthorization();
-            //test 236l
+            //test 236l featreu
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
