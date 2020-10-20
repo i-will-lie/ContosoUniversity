@@ -3,6 +3,15 @@
     "mssql1": {
       "type": "mssql.local",
       "connectionId": "SchoolContext"
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    },
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/cu-1-wj/databases/ContosoUniveristy-sql",
+      "type": "mssql.azure",
+      "connectionId": "azuredb",
+      "secretStore": "LocalSecretsFile"
     }
   }
 }

@@ -679,3 +679,4 @@ F:\vs_repos\cu\specs\ContosoUniversityTests\UnitTests\obj\Debug\netcoreapp3.1\Co
 F:\vs_repos\cu\specs\ContosoUniversityTests\UnitTests\obj\Debug\netcoreapp3.1\ContosoUniveristy.Tests.dll
 F:\vs_repos\cu\specs\ContosoUniversityTests\UnitTests\obj\Debug\netcoreapp3.1\ContosoUniveristy.Tests.pdb
 F:\vs_repos\cu\specs\ContosoUniversityTests\UnitTests\obj\Debug\netcoreapp3.1\ContosoUniveristy.Tests.genruntimeconfig.cache
+F:\vs_repos\cu\specs\ContosoUniversityTests\UnitTests\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql2.arm.json
